@@ -2,8 +2,8 @@ const mineflayer = require('mineflayer');
 
 // Setup bot connection
 const bot = mineflayer.createBot({
-  host: 'localhost',
-  port: '12345',
-  username: "Hello_world",
-  version: '1.8.9'
+  host: 'ErthSMP2.aternos.me',
+  port: '32299',
+  username: "Erthsbot",
+  version: '1.21.9'
 });
